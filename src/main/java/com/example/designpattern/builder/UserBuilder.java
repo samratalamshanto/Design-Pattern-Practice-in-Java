@@ -16,6 +16,7 @@ public class UserBuilder {
     public UserBuilder(String name, String nid) {
         this.name = name;
         this.nid = nid;
+        //this
     }
 
 }
