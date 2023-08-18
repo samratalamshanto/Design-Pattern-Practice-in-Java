@@ -8,6 +8,7 @@ public class DesignPatternInJavaApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DesignPatternInJavaApplication.class, args);
+        System.out.println("Done.");
     }
 
 }
